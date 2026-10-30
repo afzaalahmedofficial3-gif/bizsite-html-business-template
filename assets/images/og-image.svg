@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="0" y="0" width="1200" height="10" fill="url(#g)"/>
+  <rect x="90" y="200" width="86" height="86" rx="18" fill="url(#g)"/>
+  <text x="133" y="262" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">B</text>
+  <text x="90" y="380" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#ffffff">BizSite</text>
+  <text x="90" y="445" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#c7d2fe">Premium HTML/CSS Business Website Template</text>
+  <text x="90" y="540" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#94a3b8">Responsive  ·  Accessible  ·  Dark Mode  ·  No Dependencies</text>
+</svg>

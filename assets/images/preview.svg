@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="#f8fafc"/>
+  <rect width="1280" height="72" fill="#ffffff"/>
+  <rect x="60" y="22" width="34" height="28" rx="7" fill="url(#g)"/>
+  <rect x="560" y="30" width="70" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="660" y="30" width="70" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="760" y="30" width="70" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="1060" y="18" width="150" height="36" rx="18" fill="url(#g)"/>
+  <rect x="60" y="180" width="560" height="46" rx="10" fill="#0f172a"/>
+  <rect x="60" y="245" width="480" height="46" rx="10" fill="#0f172a"/>
+  <rect x="60" y="320" width="520" height="18" rx="9" fill="#94a3b8"/>
+  <rect x="60" y="350" width="440" height="18" rx="9" fill="#94a3b8"/>
+  <rect x="60" y="410" width="170" height="50" rx="25" fill="url(#g)"/>
+  <rect x="250" y="410" width="170" height="50" rx="25" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="700" y="150" width="520" height="360" rx="20" fill="#e0e7ff"/>
+  <circle cx="960" cy="290" r="90" fill="url(#g)" opacity="0.85"/>
+  <rect x="760" y="400" width="400" height="60" rx="12" fill="#ffffff"/>
+  <rect x="60" y="560" width="360" height="160" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="460" y="560" width="360" height="160" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="860" y="560" width="360" height="160" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="640" y="782" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#64748b" text-anchor="middle">BizSite — preview placeholder. Replace with a real screenshot.</text>
+</svg>

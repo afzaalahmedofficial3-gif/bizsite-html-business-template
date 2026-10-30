@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" role="img" aria-label="Illustration of a team collaborating around a table">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect x="30" y="330" width="500" height="26" rx="13" fill="#e0e7ff"/>
+  <circle cx="150" cy="180" r="52" fill="#c7d2fe"/>
+  <circle cx="150" cy="162" r="24" fill="#4f46e5"/>
+  <path d="M104 236 q46 -34 92 0 v94 h-92 z" fill="#4f46e5"/>
+  <circle cx="285" cy="150" r="58" fill="#ddd6fe"/>
+  <circle cx="285" cy="128" r="27" fill="#7c3aed"/>
+  <path d="M232 224 q53 -38 106 0 v106 h-106 z" fill="#7c3aed"/>
+  <circle cx="415" cy="180" r="52" fill="#c7d2fe"/>
+  <circle cx="415" cy="162" r="24" fill="#4338ca"/>
+  <path d="M369 236 q46 -34 92 0 v94 h-92 z" fill="#4338ca"/>
+  <rect x="205" y="52" width="150" height="54" rx="12" fill="url(#g)"/>
+  <path d="M262 106 l14 18 l14 -18 z" fill="#7c3aed"/>
+  <rect x="228" y="70" width="104" height="10" rx="5" fill="#ffffff" opacity="0.9"/>
+  <rect x="244" y="88" width="72" height="8" rx="4" fill="#ffffff" opacity="0.6"/>
+</svg>
