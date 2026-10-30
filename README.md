@@ -88,8 +88,8 @@ browser.
 **Option 2 — clone with Git**
 
 ```bash
-git clone https://github.com/your-username/bizsite-template.git
-cd bizsite-template
+git clone https://github.com/afzaalahmedofficial3-gif/bizsite-html-business-template.git
+cd bizsite-html-business-template
 ```
 
 **Option 3 — serve it locally** (recommended, so relative paths behave
